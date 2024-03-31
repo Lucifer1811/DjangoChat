@@ -2,6 +2,8 @@
 
 DjangoChat is a powerful chat room application developed using Django, HTML, and Tailwind CSS, offering real-time communication capabilities and robust user management functionalities. It enables users to exchange messages seamlessly across the server, with features including user login, registration, and saving of previous chats. The application leverages web sockets for real-time communication and utilizes SQLite database for efficient storage and retrieval of chat data. The UI design is enhanced using the Tailwind CSS framework, ensuring a visually appealing and intuitive user interface.
 
+## [Live Demonstration link](https://youtu.be/E07VNgbsWC8)
+
 ## Features
 
 - Real-time chat functionality powered by web sockets.
