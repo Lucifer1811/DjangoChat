@@ -28,3 +28,26 @@ To run the DjangoChat application locally, follow these steps:
 
 For detailed usage instructions and code walkthrough, refer to the comments and documentation within the source code files.
 
+## Sample Images:
+
+1. The landing page:
+
+      ![image](https://github.com/Lucifer1811/DjangoChat/assets/98603982/962843ce-2f55-4c1c-84d0-460463822eb7)
+
+2. Login Page:
+
+      ![image](https://github.com/Lucifer1811/DjangoChat/assets/98603982/8984f9b7-026e-408e-93bf-da38ad6731a6)
+
+3. Sign Up:
+
+      ![image](https://github.com/Lucifer1811/DjangoChat/assets/98603982/7479b2f8-839f-455b-95cf-e6b8558297a9)
+
+4. Rooms Page:
+
+      ![image](https://github.com/Lucifer1811/DjangoChat/assets/98603982/28ffae2d-c000-43f1-8c98-9e8365df48c0)
+
+5. Chat Room:
+
+     ![image](https://github.com/Lucifer1811/DjangoChat/assets/98603982/d618f9eb-3804-4290-b606-6d1ac2dd35a9)
+
+
